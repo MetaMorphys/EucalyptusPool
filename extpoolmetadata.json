@@ -1,0 +1,39 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://github.com/jacky4566/CardanoYYC/raw/main/YYC_LOGO_PNG_64x64.png",
+    "url_png_logo": "https://github.com/jacky4566/CardanoYYC/raw/main/YYC_LOGO_PNG.png",
+    "location": "Solihull, England",
+    "social": {
+      "twitter_handle": "EucalyptusPool",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "MetaMorphys/EucalyptusPool"
+    },
+    "company": {
+      "name": "Metamorphys LTD",
+      "addr": "",
+      "city": "",
+      "country": "England",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": ""
+    },
+    "rss": "http(s) url to valid RSS feed"
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "1795531808124bd8bf39943b5cb453db0f74115e840c04e02015550c"
+  ],
+  "when-satured-then-recommend": [
+    "2418ecaae0488bb393a33d4d922aeeb0a7eb7d1f370c158767c13f02"
+  ]
+}

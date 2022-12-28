@@ -22,7 +22,7 @@
     },
     "about": {
       "me": "",
-      "server": "",
+      "server": "Nodes running on the professionally maintained bare metal high availability Linux Servers.",
       "company": ""
     },
     "rss": "http(s) url to valid RSS feed"
@@ -32,8 +32,5 @@
   ],
   "my-pool-ids": [
     "7cdca5168129ace5883b56b2e9f8ac8ed59128825c840e43079eac03"
-  ],
-  "when-satured-then-recommend": [
-    "2418ecaae0488bb393a33d4d922aeeb0a7eb7d1f370c158767c13f02"
   ]
 }

@@ -10,7 +10,7 @@
 # EucalyptusPool
 The Eucalyptus Stake Pool is inspired by Sir David Attenborough and Charles Darwin promoting the ecosystem of forests and climate action.
 
-Catastrophic climate change is happening before our eyes before it is too late if we can urgently we must do our part, the eucalyptus pool ambition is to educate, inspire and contribute to the climate action and invest in climate tech in this direction we making steps and have projects planned in pipeline. Please delegate to the pool so a tiny percentage of the rewards will be invested in a treasury for the cause.
+The devastating effects of climate change are happening right before our eyes. It is not too late to take action and do our part to address this crisis, but it is urgent that we do so. The Eucalyptus Pool is dedicated to educating the public, inspiring action, and contributing to climate action through the investment in climate tech. We have already taken steps in this direction and have projects in the pipeline to further this cause. We urge you to delegate to the pool so that a portion of the rewards can be placed in a treasury to support these efforts. Together, we can make a difference and address the catastrophic impact of climate change before it is too late.
 
 Sir David Attenborough and Charles Darwin are two of the most well-known and respected figures in the fields of biology and environmentalism. Sir David Attenborough is a British naturalist, writer, and broadcaster who has dedicated his life to educating the public about the natural world and the importance of conservation. Charles Darwin, of course, is best known for his theory of evolution, which has had a profound impact on the way we understand the natural world.
 

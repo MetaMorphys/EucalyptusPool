@@ -56,7 +56,7 @@ Node version: 1.35.4 Vasil hard fork
   <p>Country: England</p>
   <h2>Accomplishments:</h2>
   <ul>
-    <li>Read the book Cardano for the Masses: A financial operating system for people who don't have one by John Greene.</li>
+    <li>Read the book Cardano for the Masses: A financial operating system for people who don't have one by John Greene at https://book.io/</li>
     <li>Reviewed coincashew guide <a href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node">https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node</a></li>
     <li>Reviewed Cardano community guild operators guide <a href="https://cardano-community.github.io/
 guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>

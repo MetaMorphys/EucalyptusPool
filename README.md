@@ -56,3 +56,7 @@ Accomplishments:
 13) Registered "Eucalyptus" Stakepool.
 14) Delegated ADA and met pool pledge.
 15) Updated stake pool metadata and extended metadata and claimed pool on https://cexplorer.io/ 
+
+
+![coreNode](https://user-images.githubusercontent.com/115787614/210840297-c126eac6-2d8e-467d-b2c7-7d85e307dbd0.png)
+![relayNode](https://user-images.githubusercontent.com/115787614/210840331-c4c4274c-8530-4071-8b22-040d41ba1a6f.png)

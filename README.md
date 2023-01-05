@@ -1,4 +1,9 @@
-![PoolLogo](https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png)  <a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/b07269e436bb93f8840a9c9fbc51bc.png" alt=""></a>
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png" alt="PoolLogo">
+  <a href="https://cexplorer.io/" target="_blank">
+    <img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/b07269e436bb93f8840a9c9fbc51bc.png" alt="">
+  </a>
+</div>
 
 # EucalyptusPool
 Eucalyptus Cardano stake pool

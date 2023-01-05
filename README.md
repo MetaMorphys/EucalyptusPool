@@ -42,46 +42,14 @@ Current Delegated stake: 30.9K Cardano ADA
 Node version: 1.35.4 Vasil hard fork
 
 # Cardano roadmap:
-Byron Era: https://roadmap.cardano.org/en/byron/
-Shelley Era: https://roadmap.cardano.org/en/shelley/
-Goguen Era: https://roadmap.cardano.org/en/goguen/
-Basho Era: https://roadmap.cardano.org/en/basho/
-Voltaire Era: https://roadmap.cardano.org/en/voltaire/
+<li>Byron Era: https://roadmap.cardano.org/en/byron/ </li>
+<li>Shelley Era: https://roadmap.cardano.org/en/shelley/ </li>
+<li>Goguen Era: https://roadmap.cardano.org/en/goguen/ </li>
+<li>Basho Era: https://roadmap.cardano.org/en/basho/ </li>
+<li>Voltaire Era: https://roadmap.cardano.org/en/voltaire/ </li>
 
 <!DOCTYPE html>
 <html>
-<head>
-  <title>About Company</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      color: #333;
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    h1 {
-      font-size: 2em;
-      color: #e74c3c;
-      text-align: center;
-    }
-    p {
-      font-size: 1.2em;
-      line-height: 1.5;
-      margin: 1em 0;
-      text-align: justify;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    li {
-      font-size: 1.2em;
-      line-height: 1.5;
-      margin: 1em 0;
-    }
-  </style>
-</head>
 <body>
   <h1>Company</h1>
   <p>Company: Metamorphys LTD</p>

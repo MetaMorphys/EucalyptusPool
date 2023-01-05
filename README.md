@@ -31,15 +31,13 @@ In addition to their environmental benefits, eucalyptus trees can also have a po
 
 Given these numerous benefits, it is clear that we should be working to grow eucalyptus trees more widely. Whether as a means of combating climate change or improving air quality, these trees offer a number of advantages that make them an essential part of any landscape.
 
-About Me
 Supporting the United Nations Sustainable Development Goal 13: Climate action which urges to take immediate action to combat climate change and its impacts by regulating emissions and promoting developments in renewable energy
 
-About Infrastructure
+About Infrastructure:
 Cardano Nodes are running on the professionally maintained bare metal high availability Linux Servers.
 
-About Company
+About Company: 
 Company: Metamorphys LTD
-
 Country: England
 
 Accomplishments:

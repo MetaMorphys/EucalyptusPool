@@ -35,8 +35,8 @@ Given these numerous benefits, it is clear that we should be working to grow euc
 # Promotion
 Eucalyptus stake pool promotes the United Nations Sustainable Development Goal 13 for Climate Action by regulating emissions and advancing renewable energy to combat climate change and its effects.
 
-# About Infrastructure:
-Cardano Nodes are running on the professionally maintained bare metal high availability Linux Servers.
+# Infrastructure:
+Cardano nodes are running on the professionally maintained bare metal high availability Linux Servers.
 
 <!DOCTYPE html>
 <html>
@@ -73,7 +73,7 @@ Cardano Nodes are running on the professionally maintained bare metal high avail
   </style>
 </head>
 <body>
-  <h1>About Company</h1>
+  <h1>Company</h1>
   <p>Company: Metamorphys LTD</p>
   <p>Country: England</p>
   <h2>Accomplishments:</h2>

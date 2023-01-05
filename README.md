@@ -36,26 +36,66 @@ Supporting the United Nations Sustainable Development Goal 13: Climate action wh
 About Infrastructure:
 Cardano Nodes are running on the professionally maintained bare metal high availability Linux Servers.
 
-About Company: 
-Company: Metamorphys LTD
-Country: England
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Company</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 2em;
+      color: #e74c3c;
+      text-align: center;
+    }
+    p {
+      font-size: 1.2em;
+      line-height: 1.5;
+      margin: 1em 0;
+      text-align: justify;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    li {
+      font-size: 1.2em;
+      line-height: 1.5;
+      margin: 1em 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>About Company</h1>
+  <p>Company: Metamorphys LTD</p>
+  <p>Country: England</p>
+  <h2>Accomplishments:</h2>
+  <ul>
+    <li>Read the book Cardano for the Masses: A financial operating system for people who don't have one by John Greene.</li>
+    <li>Reviewed coincashew guide <a href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node">https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node</a></li>
+    <li>Reviewed Cardano community guild operators guide <a href="https://cardano-community.github.io/
+guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
+<li>Read about the cardano EUTXO accounting model guide <a href="https://www.essentialcardano.io/article/the-eutxo-handbook">https://www.essentialcardano.io/article/the-eutxo-handbook</a></li>
+<li>Reviewed content on <a href="https://www.essentialcardano.io/">https://www.essentialcardano.io/</a></li>
+<li>Placed order for all equipment required for the Cardano stake pool.</li>
+<li>Harned Linux Servers.</li>
+<li>Built Cardano Relay and Block producer nodes and deployed as service.</li>
+<li>Configured the pool and topology and port forwarding.</li>
+<li>Registered stake address.</li>
+<li>Operational certificates created.</li>
+<li>Hot, cold and verification keys generated.</li>
+<li>Registered "Eucalyptus" Stakepool.</li>
+<li>Delegated ADA and met pool pledge.</li>
+<li>Updated stake pool metadata and extended metadata and claimed pool on <a href="https://cexplorer.io/">https://cexplorer.io/</a></li>
 
-Accomplishments:
-1) Read the book Cardano for the Masses: A financial operating system for people who don't have one by John Greene.
-2) Reviewed coincashew guide https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node
-3) Reviewed Cardano community guild operators guide https://cardano-community.github.io/guild-operators/
-4) Read about the cardano EUTXO accounting model guide https://www.essentialcardano.io/article/the-eutxo-handbook
-5) Reviewed content on https://www.essentialcardano.io/
-6) Placed order for all equipment required for the Cardano stake pool. 
-7) Harned Linux Servers.
-8) Built Cardano Relay and Block producer nodes and deployed as service.
-9) Configured the pool and topology and port forwarding. 
-10) Registered stake address. 
-11) Operational certificates created.
-12) Hot, cold and verification keys generated.
-13) Registered "Eucalyptus" Stakepool.
-14) Delegated ADA and met pool pledge.
-15) Updated stake pool metadata and extended metadata and claimed pool on https://cexplorer.io/ 
+  </ul>
+</body>
+</html>
 
 
 ![coreNode](https://user-images.githubusercontent.com/115787614/210840297-c126eac6-2d8e-467d-b2c7-7d85e307dbd0.png)

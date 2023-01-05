@@ -37,6 +37,16 @@ Eucalyptus stake pool promotes the United Nations Sustainable Development Goal 1
 
 # Infrastructure:
 Cardano nodes are running on the professionally maintained bare metal high availability Linux Servers.
+Our current pledge is 30K Cardano ADA which is equivalent to 30,000,000,000 Lovelace
+Current Delegated stake: 30.9K Cardano ADA
+Node version: 1.35.4 Vasil hard fork
+
+# Cardano roadmap:
+Byron Era: https://roadmap.cardano.org/en/byron/
+Shelley Era: https://roadmap.cardano.org/en/shelley/
+Goguen Era: https://roadmap.cardano.org/en/goguen/
+Basho Era: https://roadmap.cardano.org/en/basho/
+Voltaire Era: https://roadmap.cardano.org/en/voltaire/
 
 <!DOCTYPE html>
 <html>

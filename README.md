@@ -60,7 +60,7 @@ Node version: 1.35.4 Vasil hard fork
     <li>Reviewed coincashew guide <a href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node">https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node</a></li>
     <li>Reviewed Cardano community guild operators guide <a href="https://cardano-community.github.io/
 guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
-<li>Read about the cardano EUTXO accounting model guide <a href="https://www.essentialcardano.io/article/the-eutxo-handbook">https://www.essentialcardano.io/article/the-eutxo-handbook</a></li>
+<li>Read about the cardano EUTXO accounting model <a href="https://www.essentialcardano.io/article/the-eutxo-handbook">https://www.essentialcardano.io/article/the-eutxo-handbook</a></li>
 <li>Reviewed content on <a href="https://www.essentialcardano.io/">https://www.essentialcardano.io/</a></li>
 <li>Placed order for all equipment required for the Cardano stake pool.</li>
 <li>Harned Linux Servers.</li>

@@ -52,7 +52,7 @@ Node version: 1.35.4 Vasil hard fork
 <html>
 <body>
   <h1>Company</h1>
-  <p>Company: Metamorphys LTD</p>
+  <p>Metamorphys LTD</p>
   <p>Country: England</p>
   <h2>Accomplishments:</h2>
   <ul>

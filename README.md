@@ -1,4 +1,4 @@
-![PoolLogo](https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png)
+![PoolLogo](https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png)  <a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/b07269e436bb93f8840a9c9fbc51bc.png" alt=""></a>
 
 # EucalyptusPool
 Eucalyptus Cardano stake pool
@@ -6,7 +6,7 @@ The Eucalyptus Stake Pool is inspired by Sir David Attenborough and Charles Darw
 
 Catastrophic climate change is happening before our eyes before it is too late if we can urgently we must do our part, the eucalyptus pool ambition is to educate, inspire and contribute to the climate action and invest in climate tech in this direction we making steps and have projects planned in pipeline. Please delegate to the pool so a tiny percentage of the rewards will be invested in a treasury for the cause.
 
-<a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/b07269e436bb93f8840a9c9fbc51bc.png" alt=""></a>
+
 
 Why Stakepool is named Eucalyptus:
 Eucalyptus trees are native to Australia and are now grown in many parts of the world, including the United States, South Africa, and Europe. These trees are known for their tall, straight trunks and aromatic leaves, which contain oil that is used in a variety of products, including cleaning supplies and medications. In addition to their practical uses, eucalyptus trees offer a number of benefits to the climate and human health.

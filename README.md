@@ -36,6 +36,8 @@ Given these numerous benefits, it is clear that we should be working to grow euc
 Eucalyptus stake pool promotes the United Nations Sustainable Development Goal 13 for Climate Action by regulating emissions and advancing renewable energy to combat climate change and its effects.
 
 Supports #Metamorphys woodland metaverse and sustainable development projects by ARUP who is dedicated to the sustainable development using imagination, technology and rigor to shape better world.
+https://www.arup.com/
+https://Metamorphys.io/
 
 50 ADA from every block #Eucalyptus pool mint would go to sustainable development projects at Arup and the rest following the costs will be invested in the #Metamorphys LTD for green projects .
 

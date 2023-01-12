@@ -37,7 +37,7 @@ Eucalyptus stake pool promotes the United Nations Sustainable Development Goal 1
 
 Supports #Metamorphys woodland metaverse and sustainable development projects by ARUP who is dedicated to the sustainable development using imagination, technology and rigor to shape better world.
 
-50 ADA from every block #Eucalyptus pool mint would towards sustainable development project at Arup and the rest following the costs will be invested in the #Metamorphys LTD for green projects .
+50 ADA from every block #Eucalyptus pool mint would go to sustainable development projects at Arup and the rest following the costs will be invested in the #Metamorphys LTD for green projects .
 
 # Infrastructure:
 Cardano nodes are running on the professionally maintained bare metal high availability Linux Servers.

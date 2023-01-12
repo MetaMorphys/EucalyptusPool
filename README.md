@@ -39,7 +39,9 @@ Supports #Metamorphys woodland metaverse and sustainable development projects by
 https://www.arup.com/
 https://Metamorphys.io/
 
-50 ADA from every block #Eucalyptus pool mint would go to sustainable development projects at Arup and the rest following the costs will be invested in the #Metamorphys LTD for green projects .
+50 ADA from every block #Eucalyptus pool mint would go to sustainable development projects at Arup and the rest following the costs will be invested in the #Metamorphys LTD for green projects.
+
+Out interests also include work ecologi is doing more about ecologi can be found at https://ecologi.com/
 
 # Infrastructure:
 Cardano nodes are running on the professionally maintained bare metal high availability Linux Servers.

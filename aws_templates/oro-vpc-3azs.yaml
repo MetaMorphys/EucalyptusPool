@@ -1,5 +1,5 @@
 ---
-# Copyright 2021 ORO STAKE POOL
+# Copyright 2023 Eucalyptus stake Pool
 AWSTemplateFormatVersion: '2010-09-09'
 Description: 'VPC: public and private subnets in three availability zones'
 Metadata:

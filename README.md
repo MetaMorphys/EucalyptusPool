@@ -1,9 +1,6 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
-  <a href="https://cexplorer.io/" target="_blank">
-    <img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/b07269e436bb93f8840a9c9fbc51bc.png" alt="">
     <img src="https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png" alt="PoolLogo">
-  </a>
 </div>
 
 
@@ -85,11 +82,15 @@ guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
 <li>Registered "Eucalyptus" Stakepool.</li>
 <li>Delegated ADA and met pool pledge.</li>
 <li>Updated stake pool metadata and extended metadata and claimed pool on <a href="https://cexplorer.io/">https://cexplorer.io/</a></li>
+<li>Minted First block on </li>
+
 
   </ul>
 </body>
 </html>
 
-
+https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/pool-created
+https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/block-1
+https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/luck-200
 ![coreNode](https://user-images.githubusercontent.com/115787614/210840297-c126eac6-2d8e-467d-b2c7-7d85e307dbd0.png)
 ![relayNode](https://user-images.githubusercontent.com/115787614/210840331-c4c4274c-8530-4071-8b22-040d41ba1a6f.png)

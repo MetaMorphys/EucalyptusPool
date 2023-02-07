@@ -89,10 +89,10 @@ guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
 </body>
 </html>
 
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-<img src="https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/pool-created">
-<img src="https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/block-1">
-<img src="https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/luck-200">
-</div>
+
+<img src="https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/pool-created"  alt="img1">
+<img src="https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/block-1" alt="img2">
+<img src="https://cexplorer.io/award/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp/luck-200" alt="image3">
+
 ![coreNode](https://user-images.githubusercontent.com/115787614/210840297-c126eac6-2d8e-467d-b2c7-7d85e307dbd0.png)
 ![relayNode](https://user-images.githubusercontent.com/115787614/210840331-c4c4274c-8530-4071-8b22-040d41ba1a6f.png)

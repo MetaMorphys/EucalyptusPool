@@ -59,7 +59,7 @@ Node version: 1.35.4 Vasil hard fork
 # References:
 <li>coincashew: https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node </li>
 <li>guild-operators: https://cardano-community.github.io/guild-operators/ </li>
-<li>guild-operators: https://cardano-community.github.io/guild-operators/ </li>
+<li>stakepool247: [https://cardano-community.github.io/guild-operators/ ](https://cardano-node-installation.stakepool247.eu/)</li>
 
 <!DOCTYPE html>
 <html>

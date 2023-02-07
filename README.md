@@ -82,7 +82,8 @@ guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
 <li>Registered "Eucalyptus" Stakepool.</li>
 <li>Delegated ADA and met pool pledge.</li>
 <li>Updated stake pool metadata and extended metadata and claimed pool on <a href="https://cexplorer.io/">https://cexplorer.io/</a></li>
-<li>Minted First block on </li>
+<li>Minted First block on 29 Jan 2023 </li>
+<li> Upgraded to node version 1.35.5 on 7 Feb 2023 </li>
 
 
   </ul>

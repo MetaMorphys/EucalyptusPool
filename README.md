@@ -56,6 +56,11 @@ Node version: 1.35.4 Vasil hard fork
 <li>Basho Era: https://roadmap.cardano.org/en/basho/ </li>
 <li>Voltaire Era: https://roadmap.cardano.org/en/voltaire/ </li>
 
+# References:
+<li>coincashew: https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node </li>
+<li>guild-operators: https://cardano-community.github.io/guild-operators/ </li>
+<li>guild-operators: https://cardano-community.github.io/guild-operators/ </li>
+
 <!DOCTYPE html>
 <html>
 <body>

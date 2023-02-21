@@ -39,16 +39,16 @@ Current Delegated stake: 30.9K Cardano ADA
 Node version: 1.35.4 Vasil hard fork
 
 # Cardano roadmap:
-<li>Byron Era: <a href="https://roadmap.cardano.org/en/byron/</a> </li>
-<li>Shelley Era: <a href="https://roadmap.cardano.org/en/shelley/</a> </li>
-<li>Goguen Era: <a href="https://roadmap.cardano.org/en/goguen/</a> </li>
-<li>Basho Era: <a href="https://roadmap.cardano.org/en/basho/</a> </li>
-<li>Voltaire Era: <a href="https://roadmap.cardano.org/en/voltaire/</a> </li>
+<li>Byron Era: <a href="https://roadmap.cardano.org/en/byron/></a> </li>
+<li>Shelley Era: <a href="https://roadmap.cardano.org/en/shelley/></a> </li>
+<li>Goguen Era: <a href="https://roadmap.cardano.org/en/goguen/></a> </li>
+<li>Basho Era: <a href="https://roadmap.cardano.org/en/basho/></a> </li>
+<li>Voltaire Era: <a href="https://roadmap.cardano.org/en/voltaire/></a> </li>
 
 # References:
-<li>coincashew: <a href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node</a> </li>
-<li>guild-operators: <a href="https://cardano-community.github.io/guild-operators/</a> </li>
-<li>stakepool247: [<a href="https://cardano-community.github.io/guild-operators/</a> ](<a href="https://cardano-node-installation.stakepool247.eu/</a>)</li>
+<li>coincashew: <a href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node></a> </li>
+<li>guild-operators: <a href="https://cardano-community.github.io/guild-operators/></a> </li>
+<li>stakepool247: <a href="https://cardano-node-installation.stakepool247.eu/></a> </li>
 
 <!DOCTYPE html>
 <html>

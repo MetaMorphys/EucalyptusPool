@@ -44,14 +44,7 @@ Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 
 <html>
 <body>
-<h2> Cardano roadmap:</h2>
-     <ul>
-<li>Byron Era: https://roadmap.cardano.org/en/byron/ </li>
-<li>Shelley Era: https://roadmap.cardano.org/en/shelley/ </li>
-<li>Goguen Era: https://roadmap.cardano.org/en/goguen/ </li>
-<li>Basho Era: https://roadmap.cardano.org/en/basho/ </li>
-<li>Voltaire Era: https://roadmap.cardano.org/en/voltaire/ </li>
- </ul>
+
 <h2> References: </h2>
      <ul>
 <li>coincashew: https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node </li>

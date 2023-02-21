@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png" alt="PoolLogo">
 </div>
 
-<h1 style="text-align: center;">EucalyptusPool version: 1.35.5 Valentine (SECP) Hard Fork combinator</h1>
+<center> <h1 style="text-align: center;color: #0f8e06;">EucalyptusPool version: 1.35.5 Valentine (SECP) Hard Fork combinator</h1> </center>
 
 The Eucalyptus Stake Pool takes inspiration from the work of Sir David Attenborough and Charles Darwin to support and promote the ecosystem of forests and climate action.
 

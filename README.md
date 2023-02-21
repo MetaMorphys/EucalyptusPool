@@ -1,13 +1,25 @@
 
 <!DOCTYPE html>
 <html>
+   <head>
+    	<style>
+			body {
+				background-image: url(https://github.com/MetaMorphys/EucalyptusPool/blob/main/cardano-ada-logo.svg);
+			}
+			h1 {
+				font-family: Cursive;
+				color: #0f8e06;
+				text-align: Center;
+			}
+		</style>
+   </head>
 <body>
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
     <img src="https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png" alt="PoolLogo">
 
 
-# Eucalyptus Cardano stake Pool [Ticker : EULP] 
+<h1>Eucalyptus Cardano stake Pool [Ticker : EULP]</h1>
     
 ## Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 </div>

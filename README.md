@@ -5,6 +5,7 @@
 
 
 # Eucalyptus Cardano stake Pool [Ticker : EULP] 
+## Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 The Eucalyptus Stake Pool takes inspiration from the work of Sir David Attenborough and Charles Darwin to support and promote the ecosystem of forests and climate action.
 
 The devastating effects of climate change are happening right before our eyes. It is not too late to take action and do our part to address this crisis, but it is urgent that we do so. The Eucalyptus Pool is dedicated to educating the public, inspiring action, and contributing to climate action through the investment in climate tech. We have already taken steps in this direction and have projects in the pipeline to further this cause. We urge you to delegate to the pool so that a portion of the rewards can be placed in a treasury to support these efforts. Together, we can make a difference and address the catastrophic impact of climate change before it is too late.
@@ -36,19 +37,19 @@ Eucalyptus stake pool promotes the United Nations Sustainable Development Goal 1
 Cardano nodes are running on the professionally maintained bare metal high availability Linux Servers.
 Our current pledge is 30K Cardano ADA which is equivalent to 30,000,000,000 Lovelace
 Current Delegated stake: 30.9K Cardano ADA
-Node version: 1.35.4 Vasil hard fork
+Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 
 # Cardano roadmap:
-<li>Byron Era: <a href="https://roadmap.cardano.org/en/byron/>https://roadmap.cardano.org/en/byron/</a> </li>
-<li>Shelley Era: <a href="https://roadmap.cardano.org/en/shelley/>https://roadmap.cardano.org/en/shelley/</a> </li>
-<li>Goguen Era: <a href="https://roadmap.cardano.org/en/goguen/>https://roadmap.cardano.org/en/goguen/</a> </li>
-<li>Basho Era: <a href="https://roadmap.cardano.org/en/basho/>https://roadmap.cardano.org/en/basho/</a> </li>
-<li>Voltaire Era: <a href="https://roadmap.cardano.org/en/voltaire/>https://roadmap.cardano.org/en/voltaire/</a> </li>
+<li>[Byron Era:](https://roadmap.cardano.org/en/byron/) </li>
+<li>[Shelley Era:](https://roadmap.cardano.org/en/shelley) </li>
+<li>[Goguen Era:](https://roadmap.cardano.org/en/goguen/) </li>
+<li>[Basho Era:](https://roadmap.cardano.org/en/basho/) </li>
+<li>[Voltaire Era:](https://roadmap.cardano.org/en/voltaire/) </li>
 
 # References:
-<li>coincashew: <a href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node>https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node</a> </li>
-<li>guild-operators: <a href="https://cardano-community.github.io/guild-operators/>https://cardano-community.github.io/guild-operators</a> </li>
-<li>stakepool247: <a href="https://cardano-node-installation.stakepool247.eu/>https://cardano-node-installation.stakepool247.eu/</a> </li>
+<li> [Coincashew:](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)</li>
+<li> [Guild-operators:](https://cardano-community.github.io/guild-operators) </li>
+<li> [Stakepool247:](https://cardano-node-installation.stakepool247.eu/) </li>
 
 <!DOCTYPE html>
 <html>

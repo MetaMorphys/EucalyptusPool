@@ -1,11 +1,13 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
     <img src="https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png" alt="PoolLogo">
-</div>
 
 
 # Eucalyptus Cardano stake Pool [Ticker : EULP] 
+    
 ## Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
+</div>
+
 The Eucalyptus Stake Pool takes inspiration from the work of Sir David Attenborough and Charles Darwin to support and promote the ecosystem of forests and climate action.
 
 The devastating effects of climate change are happening right before our eyes. It is not too late to take action and do our part to address this crisis, but it is urgent that we do so. The Eucalyptus Pool is dedicated to educating the public, inspiring action, and contributing to climate action through the investment in climate tech. We have already taken steps in this direction and have projects in the pipeline to further this cause. We urge you to delegate to the pool so that a portion of the rewards can be placed in a treasury to support these efforts. Together, we can make a difference and address the catastrophic impact of climate change before it is too late.

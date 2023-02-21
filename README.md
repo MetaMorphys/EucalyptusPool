@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Eucalyptus Cardano stake Pool [Ticker : EULP]</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Eucalyptus is a public cardano network node operating as a stake pool, using the pools public stake address cardano community could delegate their $ADA holdings to earn rewards.">
-		<meta name="keywords" content="Eucalyptus cardano stake pool">
-		<style>
-			body {
-				background-image: url(https://github.com/MetaMorphys/EucalyptusPool/blob/main/cardano-ada-logo.svg);
-			}
-			h1 {
-				font-family: Cursive;
-				color: #0f8e06;
-				text-align: Center;
-			}
-			h3 {
-				font-family: Cursive;
-				color: #0f8e06;
-				text-align: Center;
-			}			
-			p {
-				font-family: Arial, sans-serif;
-				font-size: 14px;
-				text-align: default;
-				color: #2f2d2d;
-			}
-		</style>
-	</head>
+
 	<body>
 		<div style="display: flex; align-items: flex-start; justify-content: center;">
 			<img src="https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png" alt="PoolLogo">
@@ -81,4 +53,4 @@
 		<a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/16afb94a8767e9a13c350d35fd0ff1.png" alt=""></a>
 		<a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/7a4a57a898f183ebbb7389d10327cf.png" alt=""></a>		
 	</body>
-</html>
+

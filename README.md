@@ -53,9 +53,6 @@ Node version: 1.35.4 Vasil hard fork
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Company</h1>
-  <p>Metamorphys LTD</p>
-  <p>Country: England</p>
   <h2>Accomplishments:</h2>
   <ul>
     <li>Read the book Cardano for the Masses: A financial operating system for people who don't have one by John Greene at https://book.io/</li>

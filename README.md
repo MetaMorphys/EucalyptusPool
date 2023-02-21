@@ -32,11 +32,6 @@ Given these numerous benefits, it is clear that we should be working to grow euc
 # Promotion
 Eucalyptus stake pool promotes the United Nations Sustainable Development Goal 13 for Climate Action by regulating emissions and advancing renewable energy to combat climate change and its effects.
 
-Supports #Metamorphys woodland metaverse and sustainable development projects by ARUP who is dedicated to the sustainable development using imagination, technology and rigor to shape better world.
-https://www.arup.com/
-https://Metamorphys.io/
-
-50 ADA from every block #Eucalyptus pool mint would go to sustainable development projects at Arup and the rest following the costs will be invested in the #Metamorphys LTD for green projects.
 
 Out interests also include work ecologi is doing more about ecologi can be found at https://ecologi.com/
 
@@ -44,7 +39,7 @@ Out interests also include work ecologi is doing more about ecologi can be found
 Cardano nodes are running on the professionally maintained bare metal high availability Linux Servers.
 Our current pledge is 30K Cardano ADA which is equivalent to 30,000,000,000 Lovelace
 Current Delegated stake: 30.9K Cardano ADA
-Node version: 1.35.4 Vasil hard fork
+Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 
 # Cardano roadmap:
 <li>Byron Era: https://roadmap.cardano.org/en/byron/ </li>
@@ -61,9 +56,7 @@ Node version: 1.35.4 Vasil hard fork
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Company</h1>
-  <p>Metamorphys LTD</p>
-  <p>Country: England</p>
+
   <h2>Accomplishments:</h2>
   <ul>
     <li>Read the book Cardano for the Masses: A financial operating system for people who don't have one by John Greene at https://book.io/</li>

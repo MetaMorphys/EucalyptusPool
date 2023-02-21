@@ -1,4 +1,8 @@
 
+<!DOCTYPE html>
+<html>
+<body>
+
 <div style="display: flex; align-items: flex-start; justify-content: center;">
     <img src="https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png" alt="PoolLogo">
 
@@ -53,9 +57,6 @@ Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 <li> [Guild-operators:](https://cardano-community.github.io/guild-operators) </li>
 <li> [Stakepool247:](https://cardano-node-installation.stakepool247.eu/) </li>
 
-<!DOCTYPE html>
-<html>
-<body>
   <h2>Accomplishments:</h2>
   <ul>
     <li>Read the book Cardano for the Masses: A financial operating system for people who don't have one by John Greene at https://book.io/</li>

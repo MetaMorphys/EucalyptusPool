@@ -41,17 +41,7 @@ Our current pledge is 30K Cardano ADA which is equivalent to 30,000,000,000 Love
 Current Delegated stake: 30.9K Cardano ADA
 Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 
-# Cardano roadmap:
-<li>Byron Era: https://roadmap.cardano.org/en/byron/ </li>
-<li>Shelley Era: https://roadmap.cardano.org/en/shelley/ </li>
-<li>Goguen Era: https://roadmap.cardano.org/en/goguen/ </li>
-<li>Basho Era: https://roadmap.cardano.org/en/basho/ </li>
-<li>Voltaire Era: https://roadmap.cardano.org/en/voltaire/ </li>
 
-# References:
-<li>coincashew: https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node </li>
-<li>guild-operators: https://cardano-community.github.io/guild-operators/ </li>
-<li>stakepool247: [https://cardano-community.github.io/guild-operators/ ](https://cardano-node-installation.stakepool247.eu/)</li>
 
 <!DOCTYPE html>
 <html>
@@ -68,7 +58,7 @@ Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
      <ul>
 <li>coincashew: https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node </li>
 <li>guild-operators: https://cardano-community.github.io/guild-operators/ </li>
-<li>stakepool247: [https://cardano-community.github.io/guild-operators/ ](https://cardano-node-installation.stakepool247.eu/)</li>
+<li>stakepool247: https://cardano-node-installation.stakepool247.eu/</li>
           </ul>
   <h2>Accomplishments:</h2>
   <ul>

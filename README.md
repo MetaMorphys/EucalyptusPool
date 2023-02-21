@@ -88,5 +88,4 @@ guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
 <a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/16afb94a8767e9a13c350d35fd0ff1.png" alt=""></a>
 <a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/7a4a57a898f183ebbb7389d10327cf.png" alt=""></a>
 
-![coreNode](https://user-images.githubusercontent.com/115787614/210840297-c126eac6-2d8e-467d-b2c7-7d85e307dbd0.png)
-![relayNode](https://user-images.githubusercontent.com/115787614/210840331-c4c4274c-8530-4071-8b22-040d41ba1a6f.png)
+

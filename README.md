@@ -72,8 +72,8 @@ guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
 <li>Minted First block on 29 Jan 2023 </li>
 <li> Upgraded to node version 1.35.5 on 7 Feb 2023 </li>
 
-
   </ul>
+<iframe width="500" height="320" frameborder="0" src="https://img.cexplorer.io/w/widget.html?pool=pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp&theme=dark"><a href="https://cexplorer.io/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp">pool detail on cexplorer.io</a></iframe>  
 </body>
 </html>
 

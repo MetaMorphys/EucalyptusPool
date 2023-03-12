@@ -37,8 +37,6 @@ Out interests also include work ecologi is doing more about ecologi can be found
 
 # Infrastructure:
 Cardano nodes are running on the professionally maintained bare metal high availability Linux Servers.
-Our current pledge is 30K Cardano ADA which is equivalent to 30,000,000,000 Lovelace
-Current Delegated stake: 30.9K Cardano ADA
 Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 
 
@@ -50,7 +48,8 @@ Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 <li>coincashew: <a href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node">https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node</a> </li>
 <li>guild-operators: <a href="https://cardano-community.github.io/guild-operators/">https://cardano-community.github.io/guild-operators/</a> </li>
 <li>stakepool247: <a href="https://cardano-node-installation.stakepool247.eu/">https://cardano-node-installation.stakepool247.eu/</a></li>
-<li>KES Period: <a href="https://github.com/input-output-hk/cardano-node/blob/master/doc/stake-pool-operations/7_KES_period.md">https://github.com/input-output-hk/cardano-node/blob/master/doc/stake-pool-operations/7_KES_period.md</a></li>
+<li>KES Keeys renew: <a href="https://github.com/input-output-hk/cardano-node/blob/master/doc/stake-pool-operations/7_KES_period.md">https://github.com/input-output-hk/cardano-node/blob/master/doc/stake-pool-operations/7_KES_period.md</a></li>
+<li>KES Keeys renew: <a href="https://ecp.gitbook.io/how-to-guides-for-coincashew-method-cardano-spos/maintenance-and-daily-operations/maintenance-daily-operations-and-best-practices-guides-for-spos/renew-kes-keys">https://ecp.gitbook.io/how-to-guides-for-coincashew-method-cardano-spos/maintenance-and-daily-operations/maintenance-daily-operations-and-best-practices-guides-for-spos/renew-kes-keys</a></li>
           </ul>
   <h2>Accomplishments:</h2>
   <ul>
@@ -72,6 +71,7 @@ guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
 <li>Updated stake pool metadata and extended metadata and claimed pool on <a href="https://cexplorer.io/">https://cexplorer.io/</a></li>
 <li>Minted First block on 29 Jan 2023 </li>
 <li> Upgraded to node version 1.35.5 on 7 Feb 2023 </li>
+<li> Rotated KES Keys (KES.skey & KES.vkey) and issued new operational certificate node.cert on 12 Mar 2023 </li>
 
   </ul>
 <iframe width="500" height="320" frameborder="0" src="https://img.cexplorer.io/w/widget.html?pool=pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp&theme=dark"><a href="https://cexplorer.io/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp">pool detail on cexplorer.io</a></iframe>  

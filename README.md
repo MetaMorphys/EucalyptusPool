@@ -50,6 +50,7 @@ Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
 <li>coincashew: <a href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node">https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node</a> </li>
 <li>guild-operators: <a href="https://cardano-community.github.io/guild-operators/">https://cardano-community.github.io/guild-operators/</a> </li>
 <li>stakepool247: <a href="https://cardano-node-installation.stakepool247.eu/">https://cardano-node-installation.stakepool247.eu/</a></li>
+<li>stakepool247: <a href="https://github.com/input-output-hk/cardano-node/blob/master/doc/stake-pool-operations/7_KES_period.md">https://github.com/input-output-hk/cardano-node/blob/master/doc/stake-pool-operations/7_KES_period.md</a></li>
           </ul>
   <h2>Accomplishments:</h2>
   <ul>

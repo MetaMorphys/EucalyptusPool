@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/115787614/210828258-4b177721-2950-4052-91dc-b93a25fb7843.png" alt="PoolLogo">
 </div>
 
-<center> <h1 style="text-align: center;color: #0f8e06;">Eucalyptus Public Stake Pool at version: 1.35.5 Valentine (SECP) Hard Fork </h1> </center>
+<center> <h1 style="text-align: center;color: #0f8e06;">Eucalyptus Public Stake Pool at version: 1.35.7 P2P Enabled </h1> </center>
 
 The Eucalyptus is a cardano blockchain public stake pool, it takes inspiration from the work of Sir David Attenborough and Charles Darwin to support and promote the ecosystem of forests and climate action.
 
@@ -72,6 +72,7 @@ guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
 <li>Minted First block on 29 Jan 2023 </li>
 <li> Upgraded to node version 1.35.5 on 7 Feb 2023 </li>
 <li> Rotated KES Keys (KES.skey & KES.vkey) and issued new operational certificate node.cert on 12 Mar 2023 </li>
+<li> Upgraded to node 1.35.7 P2P enabled and guild operator tools version v10.3.0, binaries are at ~/.local/bin/cardano-node,  22 May 2023 </li>
 
   </ul>
 <iframe width="500" height="320" frameborder="0" src="https://img.cexplorer.io/w/widget.html?pool=pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp&theme=dark"><a href="https://cexplorer.io/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp">pool detail on cexplorer.io</a></iframe>  

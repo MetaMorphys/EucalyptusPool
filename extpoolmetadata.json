@@ -13,14 +13,6 @@
       "discord_handle": "",
       "github_handle": "MetaMorphys/EucalyptusPool"
     },
-    "company": {
-      "name": "Metamorphys LTD",
-      "addr": "",
-      "city": "",
-      "country": "England",
-      "company_id": "",
-      "vat_id": ""
-    },
     "about": {
       "me": "Supporting the United Nations Sustainable Development Goal 13: Climate action which urges to take immediate action to combat climate change and its impacts by regulating emissions and promoting developments in renewable energy",
       "server": "Cardano Nodes are running on the professionally maintained bare metal high availability Linux Servers.",

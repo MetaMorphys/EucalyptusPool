@@ -1,5 +1,5 @@
 
-<div style="display: flex; align-items: flex-start; justify-content: center;">
+<div style="display: flex; align-items: flex-start; justify-content: center">
    <center> <img src="https://github.com/MetaMorphys/EucalyptusPool/blob/efb213b9b0f537d2644bce50f0f5db07c8c18e43/NewlLogo.png" alt="PoolLogo"> </center>
 </div>
 

@@ -1,6 +1,6 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://github.com/MetaMorphys/EucalyptusPool/blob/efb213b9b0f537d2644bce50f0f5db07c8c18e43/NewlLogo.png" alt="PoolLogo"> 
+    <img src="https://user-images.githubusercontent.com/115787614/245323528-f24c59c0-302c-476a-9a45-b8af0d4483c4.png" alt="PoolLogo"> 
 </div>
 
 <center> <h1 style="text-align: center;color: #0f8e06;">Eucalyptus Public Stake Pool at version: 1.35.7 P2P Enabled </h1> </center>

@@ -37,7 +37,7 @@ Out interests also include work ecologi is doing more about ecologi can be found
 
 # Infrastructure:
 Cardano nodes are running on the professionally maintained bare metal high availability Linux Servers.
-Node version: 1.35.5 Valentine (SECP) Hard Fork combinator
+Node version: 8.1.1 P2P Enabled.
 
 
 <html>

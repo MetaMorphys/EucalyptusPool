@@ -75,6 +75,7 @@ guild-operators/">https://cardano-community.github.io/guild-operators/</a></li>
 <li> Upgraded to node 1.35.7 P2P enabled and guild operator tools version v10.3.0, binaries are at ~/.local/bin/cardano-node,  22 May 2023 </li>
 <li> Upgraded to node 8.1.1 P2P, latest guukd tools, libsodium and config files. 30 June 2023 </li>
 <li> Upgraded to node version 8.1.2  30 July 2023 </li>
+<li> Rotated KES Keys 21 Aug 2023, next counter is 4 </li>
 
   </ul>
 <iframe width="500" height="320" frameborder="0" src="https://img.cexplorer.io/w/widget.html?pool=pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp&theme=dark"><a href="https://cexplorer.io/pool/pool10nw2295p9xkwtzpm26ewn79v3m2ez2yztjzqusc8n6kqxrja8wp">pool detail on cexplorer.io</a></iframe>  

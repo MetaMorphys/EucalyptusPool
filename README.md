@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/115787614/245323528-f24c59c0-302c-476a-9a45-b8af0d4483c4.png" alt="PoolLogo"> 
 </div>
 
-<center> <h1 style="text-align: center;color: #0f8e06;">Eucalyptus Public Stake Pool at version: 8.1.2 P2P Enabled </h1> </center>
+<center> <h1 style="text-align: center;color: #0f8e06;">Eucalyptus Public Stake Pool at version: 10.1.4 P2P Enabled </h1> </center>
 
 The Eucalyptus is a cardano blockchain public stake pool, it takes inspiration from the work of Sir David Attenborough and Charles Darwin to support and promote the ecosystem of forests and climate action.
 
